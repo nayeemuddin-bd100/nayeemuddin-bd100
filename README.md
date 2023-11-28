@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hi there, I'm Nayeem Uddin! 👋
 
-<!--
-**nayeemuddin-bd100/nayeemuddin-bd100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate MERN Stack Developer with a love for crafting seamless and efficient web applications. 🚀
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript (ES6+), TypeScript (Currently Learning)
+- **Frontend:** HTML, CSS, React, Redux,Tailwind CSS, Bootstrap, Material UI
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB (and Mongoose for ORM)
+- **Testing:** Jest (Unit test)
+- **Frameworks:** Next.js
+- **Containerization:** Docker
+
+## 🌱 Currently Learning
+
+Exploring new technologies to enhance my skills and stay up-to-date with industry trends. Currently delving deep into Node.js and learning TypeScript for stronger, statically typed code.
+
+## 🔧 Tools I Prefer Most
+
+- **Version Control:** Git
+- **Editor:** VS Code
+- **API Testing:** Postman
+
+## 🌐 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/nayeemuddin-bd100/)
+- [Twitter](https://twitter.com/nayeem_bd100)
+
+## 📬 Contact
+
+Feel free to reach out to me at nayeemuddin.bd100@gmail.com
+
+## 💼 Open to Opportunities
+
+I'm currently open to new opportunities and collaborations. Let's build something amazing together! 🚀
+
+---
+
+<p align="center">Thanks for visiting! 😊</p>
+
