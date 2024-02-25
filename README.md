@@ -4,17 +4,16 @@ I'm a passionate MERN Stack Developer with a love for crafting seamless and effi
 
 ## 🚀 Skills
 
-- **Languages:** JavaScript (ES6+), TypeScript (Currently Learning)
+- **Languages:** JavaScript (ES6+), TypeScript
 - **Frontend:** HTML, CSS, React, Redux,Tailwind CSS, Bootstrap, Material UI
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (and Mongoose for ORM)
 - **Testing:** Jest (Unit test)
 - **Frameworks:** Next.js
-- **Containerization:** Docker
 
 ## 🌱 Currently Learning
 
-Exploring new technologies to enhance my skills and stay up-to-date with industry trends. Currently delving deep into Node.js and learning TypeScript for stronger, statically typed code.
+Exploring new technologies to enhance my skills and stay up-to-date with industry trends. Currently delving deep into Node.js and explore NoSql Database.
 
 ## 🔧 Tools I Prefer Most
 
