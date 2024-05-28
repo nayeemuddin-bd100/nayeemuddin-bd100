@@ -1,3 +1,7 @@
+ <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+ </div>
+
 # Hi there, I'm Nayeem Uddin! 👋
 
 I'm a passionate MERN Stack Developer with a love for crafting seamless and efficient web applications. 🚀
