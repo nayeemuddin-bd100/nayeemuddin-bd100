@@ -1,10 +1,11 @@
+# Hi there, I'm Nayeem Uddin! 👋
+I'm a passionate MERN Stack Developer with a love for crafting seamless and efficient web applications. 🚀
  <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
  </div>
 
-# Hi there, I'm Nayeem Uddin! 👋
 
-I'm a passionate MERN Stack Developer with a love for crafting seamless and efficient web applications. 🚀
+
 
 ## 🚀 Skills
 
@@ -19,11 +20,12 @@ I'm a passionate MERN Stack Developer with a love for crafting seamless and effi
 
 Exploring new technologies to enhance my skills and stay up-to-date with industry trends. Currently delving deep into Node.js and explore NoSql Database.
 
-## 🔧 Tools I Prefer Most
+## :chart_with_upwards_trend: Current Stats
 
-- **Version Control:** Git
-- **Editor:** VS Code
-- **API Testing:** Postman
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=nayeemuddin-bd100&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 ## 🌐 Let's Connect
 
